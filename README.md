@@ -212,4 +212,4 @@
 </LinearLayout>
 
 
-             ![](https://github.com/sinothk/TipView/blob/master/art/unreadTip.png)
+![](https://github.com/sinothk/TipView/blob/master/art/unreadTip.png)
