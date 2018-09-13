@@ -211,5 +211,5 @@
     </LinearLayout>
 </LinearLayout>
 
-
-![](https://github.com/sinothk/TipView/blob/master/art/unreadTip.png)
+# 效果图
+   ![](https://github.com/sinothk/TipView/blob/master/art/unreadTip.png)
