@@ -210,3 +210,6 @@
             app:lib_pub_badgev_radius="6dp" />
     </LinearLayout>
 </LinearLayout>
+
+
+             ![](https://github.com/sinothk/TipView/blob/master/art/unreadTip.png)
