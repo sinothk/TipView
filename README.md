@@ -212,4 +212,4 @@
 </LinearLayout>
 
 # 效果图
-   ![](https://github.com/sinothk/TipView/blob/master/art/style1.png)
+   https://github.com/sinothk/TipView/blob/master/art/style1.png
