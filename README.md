@@ -11,7 +11,8 @@
 ## Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.sinothk:TipView:1.0.0913'
+	  
+		implementation 'com.github.sinothk:TipView:2.x.1120'
 	}
 
 # 使用
