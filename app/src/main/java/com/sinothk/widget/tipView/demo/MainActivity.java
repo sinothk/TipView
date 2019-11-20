@@ -1,7 +1,8 @@
 package com.sinothk.widget.tipView.demo;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.sinothk.widget.tipView.style1.BadgeView;
 
